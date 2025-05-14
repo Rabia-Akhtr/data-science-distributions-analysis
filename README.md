@@ -1,4 +1,4 @@
-# data-science-distributions-analysis
+# Data-Science-Distributions-Analysis
 # 📊 Student Exam Grade Distribution Analysis
 
 This project analyzes and compares student examination scores from the years 2020 and 2024 using two datasets. It was completed as part of the "Fundamentals of Data Science" module for the MSc Data Science program and received full marks.
