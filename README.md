@@ -14,19 +14,17 @@ This project analyzes and compares student examination scores from the years 202
 
 | File Name         | Description |
 |------------------|-------------|
-| `23031641.py`     | Python script to process the data, generate histogram, and compute all required metrics. |
+| `23031641.py`     | Python script to process the data, generate a histogram, and compute all required metrics. |
 | `2020input1.csv`  | Grouped data from the 2020 exam. |
 | `2024input1.csv`  | Ungrouped individual scores from the 2024 exam. |
 | `23031641.pdf`    | Project report discussing the methodology, values, interpretations, and plot. |
-| `23031641.png`    | Output histogram visualizing both 2020 and 2024 distributions with annotated metrics. |
+| `23031641.png`    | Output histogram visualizing 2020 and 2024 distributions with annotated metrics. |
 
 > 🔐 *Note: CSV files are not uploaded here due to privacy policy or university distribution constraints.*
 
 ## 📈 Plot Preview
 
-A histogram comparing the 2020 and 2024 exam grades is generated with the code. Five key statistics are shown on the plot.
-
-![Histogram Output](23031641.png)
+The code generates a histogram comparing the 2020 and 2024 exam grades. The plot shows five key statistics.
 
 ## 🧮 Key Computations
 
